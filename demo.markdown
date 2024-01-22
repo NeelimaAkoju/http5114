@@ -2,7 +2,7 @@
 
 ## Headings
 
-Thhis text is **bold**. This text is _italics_
+This text is **bold**. This text is _italics_
 This text is _bold_. This text is *italics*.
 This text is ***bold and italics***
 ### This is heading level 3
@@ -23,7 +23,7 @@ This is unnumbereed list:
 -This is item three.
 
 This is a link to [BrickMMO](https://brickmmo.com).
-[Logo Image](image.png)
+![Logo Image](sampleImage.png)
 
 The 'span' tag is an inline element.
 
