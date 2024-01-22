@@ -21,3 +21,25 @@ This is unnumbereed list:
 -This is item one.
 -This is item two.
 -This is item three.
+
+This is a link to [BrickMMO](https://brickmmo.com).
+[Logo Image](image.png)
+
+The 'span' tag is an inline element.
+
+'''javasript
+//This is multiple lines of JavaScript
+let test = 1;
+if(test == 1) test =2;
+'''
+
+## Tables
+
+| Heading 1 | Heading 2 | Heading 3 |
+| --------- | --------- | --------- | 
+| Content 1 | Content 2 | Content 3 |
+| Content 1 | Content 2 | Content 3 |
+
+Heading 1 | Heading 2 | Heading 3
+--- | --- | ---
+Content 1 | Content 2 | Content 3
